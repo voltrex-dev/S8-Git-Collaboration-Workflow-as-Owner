@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #ffffff;
+}
+h2 {
+    color: #ffffff
+}
+ul {
+    color: #1b3e80;
+}
+p, #prizeWinner {
+    color: #6b3000;
+}
+h3 {
+    color: #36ac00;
+}
